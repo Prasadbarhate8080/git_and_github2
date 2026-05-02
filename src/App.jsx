@@ -21,7 +21,7 @@ function App() {
     { name: "pratik", age: 25 },
     { name: "prasad2", age: 20 },
     { name: "rajesh", age: 24 },
-    
+    { name: "shubham", age: 15}
   ];
 
   return (
