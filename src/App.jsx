@@ -20,6 +20,8 @@ function App() {
     { name: "soham", age: 23 },
     { name: "pratik", age: 25 },
     { name: "prasad2", age: 20 },
+    { name: "rajesh", age: 24 },
+    
   ];
 
   return (
