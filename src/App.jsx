@@ -19,6 +19,8 @@ function App() {
     { name: "tejas", age: 22 },
     { name: "soham", age: 23 },
     { name: "pratik", age: 25 },
+    { name: "rajesh", age: 24 },
+    
   ];
 
   return (
